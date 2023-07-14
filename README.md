@@ -6,4 +6,4 @@
 
 
 </details>
-[linkedin]: https://www.linkedin.com/in/mohamed-osman-dev/
+[linkedin]: https://www.linkedin.com/in/mohamed-osman-dev
